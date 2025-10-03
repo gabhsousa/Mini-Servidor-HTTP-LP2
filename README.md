@@ -1,4 +1,4 @@
-# Projeto de Comunicação em Rede com Logger Thread-Safe
+# Mini Servidor Web (HTTP) 
 
 ## Etapa 1 — Biblioteca de Logging (v1-logging)
 
