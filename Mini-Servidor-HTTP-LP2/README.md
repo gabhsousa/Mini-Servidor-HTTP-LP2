@@ -1,5 +1,5 @@
 
-#LPII — Trabalho Final
+# LPII — Trabalho Final
 ### Tema B — Mini Servidor Web (HTTP)
 **Disciplina:** Programação Concorrente — C/C++  
 **Aluno:** Gabriel Henrique Cavalcante de Sousa  
@@ -18,7 +18,7 @@ O sistema demonstra:
 
 ---
 
-##2. Estrutura do Projeto
+## 2. Estrutura do Projeto
 
 ```
 Mini-Servidor-HTTP-LP2/
@@ -35,7 +35,7 @@ Mini-Servidor-HTTP-LP2/
 
 ---
 
-##3. Compilação e Execução
+## 3. Compilação e Execução
 
 ### 🔨 Compilar:
 ```bash
@@ -59,7 +59,7 @@ bash scripts/run_clients.sh 127.0.0.1 8080 10
 
 ---
 
-##Requisitos Atendidos (Tema B)
+## Requisitos Atendidos (Tema B)
 
 | Requisito | Situação | Evidência |
 |:--|:--:|:--|
@@ -77,7 +77,7 @@ bash scripts/run_clients.sh 127.0.0.1 8080 10
 
 ---
 
-##5. Arquitetura do Sistema
+## 5. Arquitetura do Sistema
 
 ### 🔹 Diagrama de Fluxo (Arquitetura Geral)
 
@@ -137,7 +137,7 @@ sequenceDiagram
 
 ---
 
-##6. Concepção Técnica
+## 6. Concepção Técnica
 
 ### ⚙️ Concorrência
 - `std::thread` → uma thread por cliente  
@@ -157,7 +157,7 @@ sequenceDiagram
 
 ---
 
-##7. Teste de Carga
+## 7. Teste de Carga
 
 - Testado com `run_http_clients.sh` e `curl`
 - Logs mostram 10+ conexões simultâneas estáveis  
@@ -166,7 +166,7 @@ sequenceDiagram
 
 ---
 
-##8. Conclusão
+## 8. Conclusão
 
 O projeto entrega **um Mini Servidor HTTP concorrente completo**, implementando:
 - Concorrência real com threads independentes  
@@ -179,7 +179,7 @@ O projeto entrega **um Mini Servidor HTTP concorrente completo**, implementando:
 
 ---
 
-##9. IA / Análise Crítica — Uso de LLMs (10%)
+## 9. IA / Análise Crítica — Uso de LLMs (10%)
 
 Durante o desenvolvimento deste projeto, foram utilizadas ferramentas de IA generativa (LLMs) para **aceleração, validação e refinamento técnico do código**, sempre com **supervisão humana e verificação manual** do resultado.
 
