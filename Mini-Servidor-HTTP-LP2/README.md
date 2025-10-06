@@ -31,7 +31,7 @@ Mini-Servidor-HTTP-LP2/
  │   ├── build.sh              # Compilação
  │   ├── run_http.sh           # Execução do servidor
  │   └── run_http_clients.sh   # Teste de múltiplos clientes
- └── old_versions/             # Etapas anteriores (Chat TCP, Logger)
+ └── checkpoints 1 e 2/             # Etapas anteriores (Chat TCP, Logger)
 ```
 
 ---
