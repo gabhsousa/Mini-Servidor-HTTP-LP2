@@ -40,7 +40,6 @@ Mini-Servidor-HTTP-LP2/
 
 ### 🔨 Compilar:
 ```bash
-cd scripts
 bash build.sh
 ```
 
