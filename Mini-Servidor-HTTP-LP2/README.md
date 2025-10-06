@@ -55,7 +55,7 @@ curl http://localhost:8080/
 
 ### 🧪 Testar múltiplos clientes simultâneos (em outro terminal):
 ```bash
-bash scripts/run_http_clients.sh 127.0.0.1 8080 10
+bash scripts/run_clients.sh 127.0.0.1 8080 10
 ```
 
 ---
