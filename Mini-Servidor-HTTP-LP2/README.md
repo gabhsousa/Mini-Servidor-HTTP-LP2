@@ -87,26 +87,26 @@ bash scripts/run_http_clients.sh 127.0.0.1 8080 10
 flowchart TD
 
     subgraph Cliente["🧍 Cliente (Browser / curl)"]
-        A1[GET / HTTP/1.1]
-        A2[Recebe HTML<br>index.html]
+        A1["GET / HTTP/1.1"]
+        A2["Recebe HTML<br>index.html"]
         A1 -->|Socket TCP 8080| A2
     end
 
     subgraph Servidor["🖥️ Servidor HTTP (http_server.cpp)"]
         direction TB
-        B1[Inicialização do socket<br>socket(), bind(), listen()]
-        B2[Loop principal<br>accept()]
-        B3[Thread por conexão<br>handle_client()]
-        B4[Leitura e parsing<br>recv() / parse HTTP]
-        B5[Resposta HTTP<br>send() conteúdo www/]
-        B6[Fechamento<br>close(client_fd)]
+        B1["Inicialização do socket → socket, bind, listen"]
+        B2["Loop principal → accept"]
+        B3["Thread por conexão → handle_client"]
+        B4["Leitura e parsing → recv / parse HTTP"]
+        B5["Resposta HTTP → send conteúdo www/"]
+        B6["Fechamento → close(client_fd)"]
         B1 --> B2 --> B3 --> B4 --> B5 --> B6
     end
 
     subgraph Logger["🧾 Logger (Logger.cpp)"]
         direction TB
-        L1[Thread-safe<br>mutex lock]
-        L2[Grava em arquivo<br>server.log]
+        L1["Thread-safe → mutex lock"]
+        L2["Grava em arquivo → server.log"]
         L1 --> L2
     end
 
