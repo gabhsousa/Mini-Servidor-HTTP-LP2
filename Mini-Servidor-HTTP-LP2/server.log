@@ -1,0 +1,2852 @@
+[2025-10-06 09:12:20] [INFO] Servidor HTTP rodando na porta 8080
+[2025-10-06 09:12:46] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:12:46] [INFO] Conexões ativas: 1
+[2025-10-06 09:12:46] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Brave";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Sec-GPC: 1
+Accept-Language: pt-BR,pt;q=0.8
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+
+
+[2025-10-06 09:12:47] [INFO] Requisição recebida:
+GET /favicon.ico HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+sec-ch-ua: "Brave";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-GPC: 1
+Accept-Language: pt-BR,pt;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br, zstd
+
+
+[2025-10-06 09:12:47] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:12:47] [INFO] Conexões ativas: 2
+[2025-10-06 09:12:55] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:12:55] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 0
+[2025-10-06 09:13:29] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:13:29] [INFO] Conexões ativas: 1
+[2025-10-06 09:13:29] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Brave";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Sec-GPC: 1
+Accept-Language: pt-BR,pt;q=0.8
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+
+
+[2025-10-06 09:13:29] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:13:29] [INFO] Conexões ativas: 2
+[2025-10-06 09:13:39] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:13:40] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 0
+[2025-10-06 09:15:08] [INFO] Encerrando servidor HTTP...
+[2025-10-06 09:15:14] [INFO] Servidor HTTP rodando na porta 8080
+[2025-10-06 09:15:21] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:15:21] [INFO] Conexões ativas: 1
+[2025-10-06 09:15:21] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Brave";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Sec-GPC: 1
+Accept-Language: pt-BR,pt;q=0.8
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+
+
+[2025-10-06 09:15:21] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:15:21] [INFO] Conexões ativas: 2
+[2025-10-06 09:15:30] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:15:30] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 0
+[2025-10-06 09:15:58] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:15:58] [INFO] Conexões ativas: 1
+[2025-10-06 09:15:58] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Brave";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Sec-GPC: 1
+Accept-Language: pt-BR,pt;q=0.8
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+
+
+[2025-10-06 09:15:58] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:15:58] [INFO] Conexões ativas: 2
+[2025-10-06 09:16:08] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:16:08] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 0
+[2025-10-06 09:17:37] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:17:37] [INFO] Conexões ativas: 1
+[2025-10-06 09:17:37] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Brave";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8
+Sec-GPC: 1
+Accept-Language: pt-BR,pt;q=0.8
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+
+
+[2025-10-06 09:17:37] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:17:37] [INFO] Conexões ativas: 2
+[2025-10-06 09:17:47] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:17:47] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 0
+[2025-10-06 09:21:53] [INFO] Encerrando servidor HTTP...
+[2025-10-06 09:26:02] [INFO] Servidor HTTP rodando na porta 8080
+[2025-10-06 09:27:48] [INFO] Servidor HTTP rodando na porta 8080
+[2025-10-06 09:29:50] [INFO] Servidor HTTP rodando na porta 8080
+[2025-10-06 09:30:18] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:30:18] [INFO] Conexões ativas: 1
+[2025-10-06 09:30:18] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:30:18] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:30:18] [INFO] Conexões ativas: 2
+[2025-10-06 09:30:18] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:30:18] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:30:18] [INFO] Conexões ativas: 3
+[2025-10-06 09:30:18] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:30:18] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:30:18] [INFO] Conexões ativas: 4
+[2025-10-06 09:30:18] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:30:18] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:30:18] [INFO] Conexões ativas: 3
+[2025-10-06 09:30:18] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:30:18] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:30:18] [INFO] Conexões ativas: 3
+[2025-10-06 09:30:18] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:30:18] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:30:18] [INFO] Conexões ativas: 3
+[2025-10-06 09:30:18] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:30:18] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:30:18] [INFO] Conexões ativas: 3
+[2025-10-06 09:30:18] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:30:18] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:30:18] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:30:18] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:30:18] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:30:18] [INFO] Conexões ativas: 2
+[2025-10-06 09:30:18] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:30:18] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:30:18] [INFO] Conexões ativas: 3
+[2025-10-06 09:30:18] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:30:18] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:30:18] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:30:18] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:30:18] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:30:18] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:30:18] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:30:18] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 0
+[2025-10-06 09:38:52] [INFO] Servidor HTTP rodando na porta 8080
+[2025-10-06 09:39:01] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:01] [INFO] Conexões ativas: 1
+[2025-10-06 09:39:01] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:01] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:01] [INFO] Conexões ativas: 2
+[2025-10-06 09:39:02] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:02] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:02] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:02] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:02] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:02] [INFO] Conexões ativas: 2
+[2025-10-06 09:39:02] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:02] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:02] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:02] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:02] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:02] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:02] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:39:02] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:02] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:02] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:02] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:02] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:02] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:02] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:02] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:02] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:02] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:02] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:02] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:02] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:02] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:02] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:02] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:02] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:02] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:02] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:02] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:02] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:39:02] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 0
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 1
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 2
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 2
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 5
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 5
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 5
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 5
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 6
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 7
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 6
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 7
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 5
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 6
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 7
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 3
+[2025-10-06 09:39:43] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:39:43] [INFO] Conexões ativas: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:39:43] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:39:43] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 0
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 1
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 2
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 3
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 1
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 2
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 2
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 2
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 3
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 2
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 2
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 3
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 2
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 3
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 3
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:31] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 0
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:31] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:31] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:31] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 12
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 12
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 12
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 11
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 10
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 9
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 7
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 6
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 11
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 11
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 3
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 5
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 2
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 2
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 11
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 3
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 4
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 4
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão iniciada de 127.0.0.1
+[2025-10-06 09:40:32] [INFO] Conexões ativas: 3
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 9
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 8
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 10
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 6
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 5
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:40:32] [INFO] Requisição recebida:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: curl/8.5.0
+Accept: */*
+
+
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 3
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 7
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 2
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 1
+[2025-10-06 09:40:32] [INFO] Conexão encerrada: 127.0.0.1 | Restantes: 0
